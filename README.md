@@ -29,9 +29,8 @@ python3 manage.py runserver
 ```
 
 Открываем сайт в баузере:
-```
-localhost:8000
-```
+[localhost:8000](http://localhost:8000)
+
 
 ### Цель проекта
 
